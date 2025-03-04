@@ -67,7 +67,7 @@ All operations are handled by **GPT-3.5-turbo** (or a later variant) to ensure q
 
    Create a file named `.env` in the root of your project (same folder as `main.py`), and add:
    ```
-   OPENAI_API_KEY=your-real-openai-api-key
+   OPENAI_API_KEY=openai-api-key
    ```
    > **Warning**: Don’t commit `.env` to a public repo!
 
