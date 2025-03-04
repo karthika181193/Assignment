@@ -37,7 +37,7 @@ All operations are handled by **GPT-3.5-turbo** (or a later variant) to ensure q
 1. **Clone the Repository**
 
    ```bash
-   git clone (URL)
+   git clone https://github.com/karthika181193/Assignment.git
    cd text-processing-backend
    ```
 
